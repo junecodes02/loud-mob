@@ -17,7 +17,7 @@ Search `index.html` for `TODO` and replace:
 4. **Contact info**: phone, email, Instagram, city
 5. **FAQ answers**: match them to your real policies
 
-To change colors, edit the `--gold` and `--violet` values at the top of `styles.css`.
+To change colors, edit the `--accent` and `--violet` values at the top of `styles.css`.
 
 ## Deploying (GitHub → Netlify)
 1. Open this folder in VS Code.
